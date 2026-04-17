@@ -1,4 +1,13 @@
-Step 1 → Create test case objects(Concepts: Objects, Data Types)
+// Step 1 → Create test case objects(Concepts: Objects, Data Types)
+
+const testCases1={
+    id:1,
+    name:,
+    prority:,
+    status:,
+    error:
+}
+
 Step 2 → Store them in an array(Concept: Arrays)
 Step 3 → Write a function to add a new test case (Concept: Variables)
 Step 4 → Filter failed tests using.filter()(Concept: Array Methods, Operators)
