@@ -1,11 +1,19 @@
-// Step 1 → Create test case objects(Concepts: Objects, Data Types)
+// Step 1 → git add .
+// (Concepts: Objects, Data Types)
 
-const testCases1={
-    id:1,
-    name:,
-    prority:,
-    status:,
-    error:
+const testCases1 = {
+    id: 1,
+    name: "Login",
+    prority: "High",
+    status: "Pass",
+    error: "Null"
+}
+const testCases2 = {
+    id: 2,
+    name: "Logout",
+    prority: "High",
+    status: "Pass",
+    error: "Null"
 }
 
 Step 2 → Store them in an array(Concept: Arrays)
